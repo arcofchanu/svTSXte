@@ -1,0 +1,6 @@
+{
+  "name": "TSX/Svelte Formatter",
+  "description": "Convert components between TSX and Svelte using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
